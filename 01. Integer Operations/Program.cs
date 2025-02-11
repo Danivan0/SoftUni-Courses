@@ -24,6 +24,7 @@ int num2 = int.Parse(Console.ReadLine());
 int num3 = int.Parse(Console.ReadLine());
 int num4 = int.Parse(Console.ReadLine());
 int num5 = int.Parse(Console.ReadLine());
+int num6 = int.Parse(Console.ReadLine()); 
 
 int first = num1 + num2;
 int second = first / num3;
