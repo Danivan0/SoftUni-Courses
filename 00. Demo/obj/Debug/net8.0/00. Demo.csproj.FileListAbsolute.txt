@@ -1,0 +1,4 @@
+C:\Users\DanielIvanov\source\repos\Exercise - Data Types and Variables\00. Demo\obj\Debug\net8.0\00. Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielIvanov\source\repos\Exercise - Data Types and Variables\00. Demo\obj\Debug\net8.0\00. Demo.AssemblyInfoInputs.cache
+C:\Users\DanielIvanov\source\repos\Exercise - Data Types and Variables\00. Demo\obj\Debug\net8.0\00. Demo.AssemblyInfo.cs
+C:\Users\DanielIvanov\source\repos\Exercise - Data Types and Variables\00. Demo\obj\Debug\net8.0\00. Demo.csproj.CoreCompileInputs.cache
